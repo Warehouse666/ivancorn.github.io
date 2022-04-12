@@ -1,0 +1,195 @@
+{
+"spider": "https://superz8.coding.net/p/cat/d/catlog/git/raw/master/20220412dd_custom_spider.jar",
+
+  "sites": [
+{"key":"ykcms","name":"七七","type":0,"api":"https://video.ykvideo.cn/api.php/provide/vod/from/ppayun/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key": "csp_DiDuan","name": "低端🐞","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_DY1990","name": "90🐞","type": 3,"api": "csp_DY1990","searchable": 1,"quickSearch": 1,"filterable": 1 },
+{"key":"zj8","name":"追剧壹","type":1,"api":"http://zhuiju8.vip/api.php/provide/vod/from/muxm3u8","playUrl":"json:https://vvip.muxvip.com:8866/api/?key=xVIWNjOvnxgmvrPgXO&url=","searchable":1,"quickSearch":1},
+{"key":"zj81","name":"追剧贰","type":1,"api":"http://zhuiju8.vip/api.php/provide/vod/from/CL4K","playUrl":"parse:123","searchable":1,"quickSearch":1},
+{"key":"zj","name":"多多","type":1,"api":"http://www.zjys.vip/api.php/provide/vod/from/duoduozy","playUrl":"json:https://api.jhdyw.vip/dd.php?url=","searchable":1,"quickSearch":1},
+{"key":"csp_xpath_lanmei","name":"蓝莓","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lanmei.json"},
+{ "key": "csp_xpath_nmys", "name": "农民", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://superz8.coding.net/p/cat/d/catlog/git/raw/master/EXT/nmys.json" },
+{"key":"csp_xpath_6d","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch": 1,"filterable":1,"ext":"https://scydks.coding.net/p/s/d/tv/git/raw/main/xpath/6dtv.json"},
+{"key": "csp_xpath_在线之家","name": "在线","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://scydks.coding.net/p/s/d/tv/git/raw/main/xpath/zxzj.json"},
+{"key":"csp_xpath_xiaoqiang","name":"小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://scydks.coding.net/p/s/d/tv/git/raw/main/xpath/xiaoqiang.json"},
+{"key":"csp_xpath_jbb","name":"剧白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://scydks.coding.net/p/s/d/tv/git/raw/main/xpath/jubaibai.json"},
+{"key":"csp_xpath_pp","name":"泡泡","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://scydks.coding.net/p/s/d/tv/git/raw/main/xpath/paopao.json"},
+{"key":"csp_xpath_chenluo","name":"尘落","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/rich-boy/Sm/-/raw/main/xpath/chenluo.json?download=false"},
+{"key":"csp_xpath_miaomiao","name":"喵喵","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/rich-boy/Sm/-/raw/main/xpath/miaomiao.json?download=false"},
+{"key":"蓝光","name":"蓝光","type":1,"searchable":1,"quickSearch":0,"filterable":1,"api":"http://pandown.pro/maoys/xuangz.php?ac=","playUrl":""},
+{"key":"酷点影视","name":"酷点","type":1,"api":"http://ys.kudian6.com/api.php/provide/vod/from/lgat","searchable":1,"quickSearch":1},
+{"key":"csp_appysv2_影视达人","name":"达人","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ysdr.vip/api.php/v1.vod"},
+{"key":"csp_appysv2_看365","name":"365","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"}
+    
+  ],
+  "lives": [
+{ "group": "redirect", "channels": [ { "name": "redirect", "urls": [ "proxy://do=live&type=txt&ext=aHR0cHM6Ly9tby14aWFvLmNvZGluZy5uZXQvcC9jL2QvYy9naXQvcmF3L21hc3Rlci9saXZlL2xpdmUudHh0" ] } ] }
+  ],
+  "parses": [],
+  "flags": [],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [],
+  "wallpaper": "https://i.ibb.co/9rcmg7n/cat.jpg"
+  }
