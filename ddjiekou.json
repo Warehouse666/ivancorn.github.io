@@ -1,0 +1,14 @@
+{
+"spider": "https://superz8.coding.net/p/cat/d/catlog/git/raw/master/20220412dd_custom_spider.jar",
+
+  "sites": [
+{"key":"ykcms","name":"七七","type":0,"api":"https://video.ykvideo.cn/api.php/provide/vod/from/ppayun/at/xml","playUrl":"","searchable":1,"quickSearch":1},
+{"key": "csp_DiDuan","name": "低端🐞","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_DY1990","name": "90🐞","type": 3,"api": "csp_DY1990","searchable": 1,"quickSearch": 1,"filterable": 1…tps://vvip.muxvip.com:8866/api/?key=xVIWNjOvnxgmvrPgXO&url=","searchable":1,"quickSearch":1},
+{"key":"zj81","name":"追剧贰","type":1,"api":"http://zhuiju8.vip/api.php/provide/vod/from/CL4K","playUrl":"parse:123","searchable":1,"quickSearch":1},
+{"key":"zj","name":"多多","type":1,"api":"http://www.zjys.vip/api.php/provide/vod/from/duoduozy","playUrl":"json:https://api.jhdyw.vip/dd.php?url=","searchable":1,"quickSearch":1},
+…    }
+  ],
+  "ads": [],
+  "wallpaper": "https://i.ibb.co/9rcmg7n/cat.jpg"
+  }
