@@ -1,7 +1,7 @@
 {
   "sites": [
     
-{"key":"ykcms","name":"易看77","type":1,"api":"https://video.ykvideo.cn/api.php/provide/vod/from/ppayun","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"ykcms","name":"易看77","type":1,"api":"https://video.ykvideo.cn/api.php/provide/vod","playUrl":"","searchable":1,"quickSearch":1},
 {
       "key": "csp_DiDuan",
       "name": "低端影视",
