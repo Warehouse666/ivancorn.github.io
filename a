@@ -1,7 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"https://cdn.staticaly.com/gh/YuanHsing/OneClickRun@master/xpath/xm.jar",
+"spider":"https://cdn.jsdelivr.net/gh/ivancorn/catlog@main/b",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
 
