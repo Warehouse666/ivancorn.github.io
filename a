@@ -1,10 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-
+"spider":"https://cdn.staticaly.com/gh/YuanHsing/OneClickRun@master/xpath/xm.jar",
 "sites":[
-
-
 {"key":"csp_CZSPP","name":"🐉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_NaNa","name":"🐉七七","type":3,"api":"csp_NaNa","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"🐉低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
@@ -14,7 +11,6 @@
 {"key":"csp_FakeWindow","name":"🐉假窗·氛围·白噪声","type":3,"api":"csp_FakeWindow","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_Live","name":"🐉设置直播为首页","type":3,"api":"csp_Live","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0}
-
 ],
 "lives":[
 {"group":"redirect","channels":[
