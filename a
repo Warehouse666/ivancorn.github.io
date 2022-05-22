@@ -1,6 +1,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.iqiq.io/ivancorn/catlog/main/b",
+//"spider":"https://raw.iqiq.io/ivancorn/catlog/main/b",
+"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/catxm.jar",
 "sites":[
 {"key":"csp_CZSPP","name":"🐉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_NaNa","name":"🐉七七","type":3,"api":"csp_NaNa","searchable":1,"quickSearch":1,"filterable":0},
