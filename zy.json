@@ -1,7 +1,5 @@
 {
 "spider": "https://raw.iqiq.io/ivancorn/c/main/m0601_sj_pg.txt",
-
-//"spider": "https://superz8.coding.net/p/cat/d/c/git/raw/master/m0601_sj_pg.txt",
   "sites": [
     {
       "key": "LiteApple",
