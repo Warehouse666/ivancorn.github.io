@@ -1,5 +1,5 @@
 {
-"spider":"https://superz8.coding.net/p/vod/d/log/git/raw/master/20220413t3custom_spider.jar",
+//"spider":"https://superz8.coding.net/p/vod/d/log/git/raw/master/20220413t3custom_spider.jar",
 "sites": [
 
 {"key":"每天看看","name":"每天看看(优)","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","playUrl":"https://jx.parwix.com:4433/player/analysis.php?v=","searchable":1,"quickSearch":1},
