@@ -2,7 +2,7 @@
 "spider": "https://raw.iqiq.io/ivancorn/c/main/xm.jar",
 
   "sites": [
- {"key": "csp_NaNa","name": "👒 七七","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "سبعة وسبعة"},
+ //{"key": "csp_NaNa","name": "👒 七七","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "سبعة وسبعة"},
  //{"key": "csp_360","name": "🎾 360","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ثلاثة مائة وستون"},
  //{"key": "csp_AliPanSou","name": "🐱 喵狸盘搜","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "مواء الراكون"},
  //{"key": "csp_GitCafe","name": "🦊 小纸条","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "ملاحظة"},
