@@ -1,5 +1,5 @@
 {
-"spider": "https://ivancorn.github.io/xm.jar",
+"spider": "https://raw.fastgit.org/ivancorn/ivancorn.github.io/main/xm.jar",
 
   "sites": [
  {"key": "csp_NaNa","name": "👒 七七","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "سبعة وسبعة"},
