@@ -1,5 +1,5 @@
 {
-"spider": "img+http://inews.gtimg.com/newsapp_ls/0/14968285256/0",
+"spider": "https://hk1.monika.love/tvba/b/main/xm_20220527.txt",
 
   "sites": [
  {"key": "csp_NaNa","name": "👒 七七","type": 3,"api": "csp_ColaCat","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "سبعة وسبعة"},
